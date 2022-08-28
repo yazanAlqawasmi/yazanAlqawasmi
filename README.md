@@ -1,7 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
-**yazanAlqawasmi/yazanAlqawasmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**WaelAlQawasmi/WaelAlQawasmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- :computer: Most used combination of lines of code `git add ; git commit ; git push`.
+- :speech_balloon: Ask me anything.
+
+🤝 &nbsp; Connect with Me
+
+
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yazanAlqawasmi) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yazanAlqawasmi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/yazanAlqawasmi) 
+
+
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yazanAlqawasmi&show_icons=true)  
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazanAlqawasmi&layout=compact" width="50%"/></p>
+
